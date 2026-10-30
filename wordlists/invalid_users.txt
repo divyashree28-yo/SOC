@@ -1,0 +1,10 @@
+admin
+administrator
+test
+guest
+oracle
+backup
+ftpuser
+operator
+temp
+support
